@@ -30,12 +30,11 @@
 
 ### <a href="https://www.bogleheads.org/wiki/Getting_started_for_non-US_investors">Bogleheads</a>
 
-#### <a href="https://www.bogleheads.org/wiki/Book_recommendations_and_reviews">Bogleheads books list</a>
+### <a href="https://www.bogleheads.org/wiki/Book_recommendations_and_reviews">Bogleheads books list</a>
 
 ### <a href="https://typescript-exercises.github.io/#exercise=1&file=%2Findex.ts">TS exercises</a>
 
 ### <a href="https://testing-library.com/docs/learning/">Learning testing</a>
->
 
-### <a href=""></a>
->
+### <a href="https://www.jailbreakchat.com/">jailbreak chat</a>
+
